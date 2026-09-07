@@ -33,13 +33,6 @@ function Hero() {
               <ArrowRight size={18} />
             </a>
 
-            {/* <a
-              href="/Anup_Prasad_Resume.pdf" download
-              className="inline-flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 font-semibold text-white transition hover:border-cyan-400 hover:text-cyan-400"
-            >
-              Download Resume
-              <Download size={18} />
-            </a> */}
             <a
               href="/Anup_Prasad_Resume.pdf"
               download
@@ -77,7 +70,6 @@ function Hero() {
                 <div className="text-7xl font-bold text-cyan-400">
                   &lt;/&gt;
                 </div>
-
                 <p className="mt-4 text-slate-400">Code. Build. Learn.</p>
               </div>
             </div>
